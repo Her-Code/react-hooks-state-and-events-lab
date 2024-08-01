@@ -1,0 +1,11 @@
+/* src/components/App.css */
+.App.dark {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .App.light {
+    background-color: #fff;
+    color: #000;
+  }
+  
